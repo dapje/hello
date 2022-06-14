@@ -2,9 +2,7 @@
 
 ## Ingresa Aqui para el Grupo de WhatsApp "Apoyo Técnico"
 
-Por favor [haga clic aquí](https://github.com/dapje/hello/apoyo-primero) ABS
-
-Por favor [haga clic aquí](./apoyo-primero) REL
+Por favor [haga clic aquí](./apoyo-primero)
 
 <!--
 
